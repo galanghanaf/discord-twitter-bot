@@ -1,6 +1,6 @@
 # Discord Twitter Bot
 
-Simple discord bot that sends messages to twitter
+Discord bot that send messages and media to twitter
 
 ## Attention
 
